@@ -21,3 +21,11 @@
   <a href="https://api.whatsapp.com/send?phone=5561983586190&text=Ol%C3%A1%2C%20tudo%20bem%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   
 </div>
+
+##
+
+<div>
+  <a href="https://github.com/esdrasstm">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=esdrasstm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esdrasstm&layout=compact&langs_count=7&theme=dark"/>
+</div>
