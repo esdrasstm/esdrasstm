@@ -1,4 +1,4 @@
-### Óla! 👋 Eu sou o Esdras Tomé
+### Olá! 👋 Eu sou o Esdras Tomé
 
 - 🔭 Desenvolvedor front-end Jr
 - 🌱 Estudando JavaScript
